@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ilya Berezhnyak 👋</h1>
 
-<!--
-**iberezh/iberezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Web Developer | JavaScript / Node.JS | UI, Bots & Desktop Apps  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💡 I build web interfaces, Telegram bots, desktop apps and small games  
+- 👨‍💻 Passionate about learning, team collaboration and clean code  
+- 🌐 English B2–C1  
+- 📫 Telegram: [@iberezh](https://t.me/iberezh)
+
+---
