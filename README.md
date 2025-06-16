@@ -1,7 +1,7 @@
 <h1 align="center">Ilya Berezhniak</h1>
 
 <p align="center">
-  Web Developer | JavaScript / Node.js | Full Stack Projects & UI Components  
+  Web Developer | JavaScript / Node.js | Full-Stack Projects & UI Components  
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ### 💼 Recent Work
 
-**Frontend Developer @ BelHard Group**  
+**Full-Stack Developer @ BelHard Group**  
 _March 2024 – May 2025 | Minsk, Belarus (on-site / hybrid)_
 
 - 🛒 Online car parts catalog (custom JS components, dynamic filters, MySQL backend)  
