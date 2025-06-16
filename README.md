@@ -13,8 +13,11 @@
 - 👥 Led small teams (3–8 devs), planned sprints, mentored junior developers  
 - ⚙️ Focused on clean code, reusable components, and RESTful APIs  
 - 🌐 English B2–C1  
-- 📫 Telegram: [@iberezh](https://t.me/iberezh)  
-
+- 📱 Telegram: [@iberezh](https://t.me/iberezh)  
+- 📞 Mobile: +375 (29) 150-85-72  
+- 💼 LinkedIn: [ilya-berezhniak](https://www.linkedin.com/in/ilya-berezhniak-0380b8331/)  
+- ✉️ Email: [ilyaberezhniak@gmail.com](mailto:ilyaberezhniak@gmail.com)
+  
 ---
 
 ### 🛠 Tech Stack
