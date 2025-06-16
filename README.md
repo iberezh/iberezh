@@ -12,7 +12,11 @@
 - 🧠 Built 5 production websites, including an internal version tracking system (Notion-style)  
 - 👥 Led small teams (3–8 devs), planned sprints, mentored junior developers  
 - ⚙️ Focused on clean code, reusable components, and RESTful APIs  
-- 🌐 English B2–C1  
+- 🌐 English B2–C1
+
+---
+
+### 📬 Contact Me
 - 📱 Telegram: [@iberezh](https://t.me/iberezh)  
 - 📞 Mobile: +375 (29) 150-85-72  
 - 💼 LinkedIn: [ilya-berezhniak](https://www.linkedin.com/in/ilya-berezhniak-0380b8331/)  
